@@ -2,7 +2,7 @@
 name: Daily-Scrum-Template
 about: 데일리 스크럼
 title: ''
-labels: Daily-Scrum
+labels: Daily-Scrum, Sprint-Backlog
 assignees: ''
 
 ---
